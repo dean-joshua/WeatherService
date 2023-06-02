@@ -32,3 +32,7 @@ I decided on creating a REST api with Swagger documentation.
 ## Dependency Injection
 
 - This was a great opportunity for me to learn more about dependency injection. I had heard about it a few times in the last year and did some reading but never had many opportunities to put it into practice. In this application, I make use of it by creating a Weather API class. This class is where all interactions with our API endpoint lives. In this way, I can completely change what weather api I am working with without changing anything in my routes or controllers.
+
+## Potential Upgrades
+
+- Give it a front-end with a UI
