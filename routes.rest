@@ -1,0 +1,4 @@
+// Test if the call to weather stack works all on its own
+
+###GET
+http://api.weatherstack.com/current?access_key=[YOUR_API_KEY]&query=83440
